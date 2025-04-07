@@ -81,9 +81,16 @@
 
 ## Contributing
 
-
-
 Your contributions are always welcome! Please take a look at the [contribution guidelines](./CONTRIBUTING.md) first.
+
+
+## Question
+
+Also, if you have any questions, please send a message directly to WeChat, Line, or Telegram below.
+
+![qr](https://github.com/user-attachments/assets/8c92a921-b111-4f60-b7b6-64d5038ddf95)
+
+
 
 
 
