@@ -101,15 +101,21 @@ Also, if you have any questions, please send a message directly to WeChat, Line,
 <details>
 <summary>💬 LINE</summary>
 
-![LIINE_QR](https://github.com/user-attachments/assets/f8bf4afb-7719-4ceb-8baa-8aeb197514ca)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f8bf4afb-7719-4ceb-8baa-8aeb197514ca" width="512" height="512">
+</p>
+
 
 
 </details>
 
 <details>
 <summary>💬 Telegram</summary>
- 
-![TELEGRAM_QR](https://github.com/user-attachments/assets/9516c0a3-6268-446e-a526-f0afa11c9a0e)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9516c0a3-6268-446e-a526-f0afa11c9a0e" width="512" height="512">
+</p>
 
 
 </details>
@@ -117,10 +123,12 @@ Also, if you have any questions, please send a message directly to WeChat, Line,
 <details>
 <summary>💬 WeChat</summary>
 
-![WeChat](https://github.com/user-attachments/assets/f8e3a896-1820-47ab-b4f4-9ec0b8741e7d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f8e3a896-1820-47ab-b4f4-9ec0b8741e7d" width="512" height="512">
+</p>
+
 
 </details>
-
 
 
 
