@@ -1,16 +1,19 @@
 # Awesome-tokenizer  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+A repository with the 🔥 symbol is a tokenizer that is significantly faster than other tokenizers.
+
+
 ## 🔹 **WordPiece Tokenizer Implementations**
 
-* **[FlashTokenizer](https://github.com/NLPOptimize/flash-tokenizer)** (C++/Python)
+* 🔥 **[FlashTokenizer](https://github.com/NLPOptimize/flash-tokenizer)** (C++/Python)
   *  The world's fastest CPU tokenizer library!
 - **[huggingface/tokenizers](https://github.com/huggingface/tokenizers)** *(Rust/Python)*
   - Official Hugging Face tokenizer, fast Rust implementation with Python bindings.
-- **[FastBertTokenizer](https://github.com/kekyo/FastBertTokenizer)** *(C#)*
+- 🔥 **[FastBertTokenizer](https://github.com/kekyo/FastBertTokenizer)** *(C#)*
   - Highly optimized tokenizer for speed, reduced accuracy on non-English inputs.
 - **[BertTokenizers](https://github.com/microsoft/BertTokenizers)** *(C#)*
   - Microsoft's original C# tokenizer implementation (slower than FastBertTokenizer).
-- **[rust-tokenizers](https://github.com/guillaume-be/rust-tokenizers)** *(Rust/Python)*
+- 🔥 **[rust-tokenizers](https://github.com/guillaume-be/rust-tokenizers)** *(Rust/Python)*
   - Rust tokenizer library; faster than pure Python but slower than BlingFire or Flash.
 - **[tokenizers-cpp](https://github.com/monologg/tokenizers-cpp)** *(C++)*
   - Wrapper around SentencePiece and Hugging Face’s tokenizers; not a standalone implementation.
@@ -22,7 +25,7 @@
   - Naive pure C++ implementation; slow performance.
 - **[SeanLee97/BertWordPieceTokenizer.jl](https://github.com/SeanLee97/BertWordPieceTokenizer.jl)** *(Julia)*
   - Julia implementation, not widely benchmarked.
-- **[BlingFire](https://github.com/microsoft/BlingFire)** *(C++/Python)*
+- 🔥 **[BlingFire](https://github.com/microsoft/BlingFire)** *(C++/Python)*
   - Microsoft's high-speed tokenizer optimized for batch processing, available as Python bindings.
 - **[tensorflow-text WordpieceTokenizer](https://github.com/tensorflow/text)** *(C++/Python)*
   - TensorFlow-integrated Google's tokenizer optimized for use in TensorFlow pipelines.
@@ -51,13 +54,14 @@
   - Rust BPE tokenizer library, identifying frequent pairs effectively.
 - **[YouTokenToMe](https://github.com/VKCOM/YouTokenToMe)** *(C++/Python)*
   - Efficient BPE tokenizer with fast training and inference, developed by VK.com.
-- **[fastBPE](https://github.com/glample/fastBPE)** *(C++/Python)*
+- 🔥  /**[fastBPE](https://github.com/glample/fastBPE)** *(C++/Python)*
   - Facebook’s fast and memory-efficient BPE tokenizer, widely used in NLP research.
-- **[sentencepiece](https://github.com/google/sentencepiece)** *(C++/Python)*
+- 🔥 **[sentencepiece](https://github.com/google/sentencepiece)** *(C++/Python)*
   - Google's SentencePiece implementation also provides BPE as one of the algorithms.
 - **[Subword-nmt](https://github.com/rsennrich/subword-nmt)** *(Python)*
   - Python implementation commonly used in MT research, simple but slower.
-
+- 🔥 **[rs-bpe](https://github.com/gweidart/rs-bpe)** (Rust)
+  - A ridiculously fast Python BPE (Byte Pair Encoder) implementation written in Rust
 ------
 
 ## 🔹 **SentencePiece Implementations**
