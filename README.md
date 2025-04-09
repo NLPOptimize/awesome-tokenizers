@@ -1,6 +1,12 @@
+<hr>
+
+<a href="https://github.com/djsime1/awesome-flipperzero">
+  <img src="https://github.com/user-attachments/assets/fa630c29-eb02-4736-9fa7-bb58e7fcf09a" align="center" alt="awesome_tokenizers" title="https://github.com/NLPOptimize/awesome-tokenizers">
+</a>
+
+<hr>
 
 
-![Awesome-tokenizer-banner](https://github.com/user-attachments/assets/fa630c29-eb02-4736-9fa7-bb58e7fcf09a)
 
 
 # Awesome-tokenizer  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
