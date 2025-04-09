@@ -1,3 +1,8 @@
+
+
+![Awesome-tokenizer-banner](https://github.com/user-attachments/assets/fa630c29-eb02-4736-9fa7-bb58e7fcf09a)
+
+
 # Awesome-tokenizer  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A repository with the 🔥 symbol is a tokenizer that is significantly faster than other tokenizers.
@@ -92,10 +97,29 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 Also, if you have any questions, please send a message directly to WeChat, Line, or Telegram below.
 
-![qr](https://github.com/user-attachments/assets/8c92a921-b111-4f60-b7b6-64d5038ddf95)
+
+<details>
+<summary>💬 LINE</summary>
+
+![LIINE_QR](https://github.com/user-attachments/assets/f8bf4afb-7719-4ceb-8baa-8aeb197514ca)
 
 
+</details>
 
+<details>
+<summary>💬 Telegram</summary>
+ 
+![TELEGRAM_QR](https://github.com/user-attachments/assets/9516c0a3-6268-446e-a526-f0afa11c9a0e)
+
+
+</details>
+
+<details>
+<summary>💬 WeChat</summary>
+
+![WeChat](https://github.com/user-attachments/assets/f8e3a896-1820-47ab-b4f4-9ec0b8741e7d)
+
+</details>
 
 
 
