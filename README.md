@@ -1,10 +1,11 @@
 <hr>
 
-<a href="https://github.com/djsime1/awesome-flipperzero">
-  <img src="https://github.com/user-attachments/assets/fa630c29-eb02-4736-9fa7-bb58e7fcf09a" align="center" alt="awesome_tokenizers" title="https://github.com/NLPOptimize/awesome-tokenizers">
+<a href="https://github.com/NLPOptimize/awesome-tokenizers">
+  <img src="https://github.com/user-attachments/assets/fda66cb0-e785-4e52-bcaf-4deed208a278" align="center" alt="awesome_tokenizers" title="https://github.com/NLPOptimize/awesome-tokenizers">
 </a>
 
 <hr>
+
 
 
 
